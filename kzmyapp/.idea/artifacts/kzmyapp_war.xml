@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="kzmyapp:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="kz.myapp.war">
-      <element id="artifact" artifact-name="kzmyapp:war exploded" />
-    </root>
-  </artifact>
-</component>
